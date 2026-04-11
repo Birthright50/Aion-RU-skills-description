@@ -18,5 +18,5 @@ Replaces default client_strings with updated Russian descriptions.
 ### Option 2 — Manual
 
 1. Open the repository  
-2. Download `client_strings_skill.xml` file from the repository root  (use "Download raw file")  
+2. Download `client_strings_skill.xml`, `client_strings_item.xml` and `client_strings_item2.xml` files from the repository root  (use "Download raw file for each")  
 3. Copy it to: `L10N\7_rus\Data\strings\` folder.
